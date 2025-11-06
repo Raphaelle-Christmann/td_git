@@ -1,2 +1,2 @@
-# td_git
-Crash test pour td git
+Td pour d'entraîner sur git
+Mon readme
